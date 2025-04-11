@@ -66,7 +66,9 @@ Chitai-gorod
 ## Установка
 
 1. Клонируйте репозиторий:
-git clone https://github.com/tuse4ka1984/Chitai-gorod.git
+git clone https://github.com/IIZERGII/Pyton.git
+
+
 
 2. Перейдите в каталог проекта
 Chitai-gorod
